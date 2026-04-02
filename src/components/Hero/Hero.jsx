@@ -6,18 +6,29 @@ const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>hi, I'm Sibusiso </h1>
+        <h1 className={styles.title}>Hi, I'm Sibusiso Mawelela</h1>
         <p className={styles.description}>
-          I am a full stack developer with 1 year experience using React and
-          NodeJS. Reach out if you want to learn more{" "}
+          I am a motivated Computer Science graduate from Tshwane University of Technology with a strong focus on full-stack software development.
+          Skilled in designing, building, and deploying modern web applications using Java, JavaScript, Python, SQL, React and frameworks like JEE,
+          Node.js, and Flask.
+            
+          I am Passionate about continuous learning, problem-solving, and collaborating to turn complex
+          requirements into practical, user-friendly applications.
         </p>
 
-        <a href="mailto:sibusisosicelomawelela@gmail.com" className={styles.contactBtn}>
+        <a
+          href="mailto:sibusisosicelomawelela@gmail.com"
+          className={styles.contactBtn}
+        >
           Contact Me
         </a>
       </div>
 
-      <img className = {styles.heroImg} src={getImageUrl("heroImage.png")} alt="Hero" />
+      <img
+        className={styles.heroImg}
+        src={getImageUrl("heroImage.png")}
+        alt="Hero"
+      />
 
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>

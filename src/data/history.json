@@ -1,29 +1,43 @@
 [
-  {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+ {
+    "role": "Full-Stack Software Developer",
+    "organisation": "ICEP",
+    "startDate": "July, 2024",
+    "endDate": "June, 2025",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Developed dynamic web and Mobile applications using ReactJS, Node.js, HTML, SaaS, CSS, JavaScript And Kotlin",
+      "Optimized and managed databases using MySQL",
+      "Integrated third-party APIs including OpenAI and Google Gemini",
+      "Debugged and improved application performance and scalability",
+      "Collaborated with cross-functional teams to design and implement solutions",
+      "Maintained proper documentation and followed SDLC practices"
     ],
-    "imageSrc": "netflix.png"
+    "imageSrc": "icep.png"
+  },
+  {
+    "role": "Tutor",
+    "organisation": "Tshwane University of Technology",
+    "startDate": "Jan, 2025",
+    "endDate": "Dec, 2025",
+    "experiences": [
+      "Facilitated tutorial sessions in programming and database modules",
+      "Assisted students with problem-solving and coding concepts",
+      "Provided academic support and mentorship",
+      "Helped improve student understanding of core Computer Science subjects"
+    ],
+    "imageSrc": "tutLogo.png"
+  },
+  {
+    "role": "Mentor",
+    "organisation": "Tshwane University of Technology",
+    "startDate": "Jan, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": [
+      "Guided students in programming, databases, and ICT concepts",
+      "Provided technical and academic support",
+      "Facilitated open labs and collaborative learning sessions",
+      "Promoted a positive and supportive learning environment"
+    ],
+    "imageSrc": "tutLogo.png"
   }
 ]

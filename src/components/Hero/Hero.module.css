@@ -45,7 +45,7 @@
   font-size: 30px;
   font-weight: 600;
   color: var(--color-text);
-  background-color: var(--color-primary);
+  background-color: var(--color-secondary);
   border: 2px solid var(--color-text);
   border-radius: 100px;
   text-decoration: none;
