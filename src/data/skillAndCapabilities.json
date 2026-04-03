@@ -27,7 +27,7 @@
   {
     "title": "mySql",
     "imageSrc": "mysql.png",
-    "level": 75
+    "level": 100
   },
   {
     "title": "Figma",
@@ -37,14 +37,9 @@
   {
     "title": "Java",
     "imageSrc": "java.png",
-    "level": 70
+    "level": 100
   }
   ,
-  {
-    "title": "Java",
-    "imageSrc": "java.png",
-    "level": 70
-  },
   {
     "title": "Kotlin",
     "imageSrc": "kotlin.png",

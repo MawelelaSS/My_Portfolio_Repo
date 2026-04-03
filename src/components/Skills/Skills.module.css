@@ -8,10 +8,12 @@
 }
 
 .title {
+  text-align:center;
   color: var(--color-text);
-  font-size: clamp(2rem, 5vw, 4rem);
+  font-size: 35px;
   font-weight: 700;
-  text-align: center;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
 }
 
 .skillLayout {
@@ -74,4 +76,3 @@
     padding: 1.5rem;
   }
 }
-
