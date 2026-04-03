@@ -16,15 +16,27 @@
     "imageSrc": "node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "mongodb.png"
+    "title": "mySql",
+    "imageSrc": "mysql.png"
   },
   {
     "title": "Figma",
     "imageSrc": "figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "java.png"
+  },
+  {
+    "title": "Kotlin",
+    "imageSrc": "kotlin.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "githubIcon.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "postman.png"
   }
 ]

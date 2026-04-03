@@ -1,0 +1,77 @@
+@import "../../vars.css";
+
+.container {
+  margin: 5rem 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 700;
+  text-align: center;
+}
+
+.skillLayout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 2px solid rgba(167, 139, 250, 0.3);
+  border-radius: 20px;
+  padding: 2rem;
+}
+
+.softSkills {
+  color: var(--color-text);
+  padding: 1rem;
+  border-right: 1px solid rgba(167, 139, 250, 0.3);
+}
+
+.softSkills h3 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.softSkills ul {
+  margin: 0.7rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.softSkills li {
+  margin-bottom: 0.6rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.hardSkills {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 1024px) {
+  .skillLayout {
+    grid-template-columns: 1fr;
+  }
+
+  .softSkills {
+    border-right: none;
+    border-bottom: 1px solid rgba(167, 139, 250, 0.3);
+    padding-bottom: 1rem;
+  }
+
+  .hardSkills {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .skillLayout {
+    padding: 1.5rem;
+  }
+}
+
