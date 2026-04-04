@@ -1,0 +1,24 @@
+[
+  {
+    "institution": "Sidungeni Secondary School",
+    "degree": "National Senior Certificate",
+    "startDate": "2015",
+    "endDate": "2019",
+    "description": "Completed secondary education with a focus on commercial subjects, developing strong analytical thinking, business awareness, and problem-solving skills."
+  },
+  {
+    "institution": "Tshwane University of Technology",
+    "degree": "Diploma in Computer Science",
+    "startDate": "2021",
+    "endDate": "2024",
+    "description": "Completed a Diploma in Computer Science with Cum laude, and I have hands-on experience in web and mobile development, databases, and backend systems using ReactJS, Kotlin, Retrofit, NodeJS, mySql gained through an Internship program.Throughout the Diploma in Computer Science, Java was the primary programming language, progressing from Principles of Programming to Object-Oriented Programming and full-stack enterprise application development. Applied Java Enterprise Edition (JEE) using the MVC design pattern to build scalable applications. Covered database concepts from Database Principles to advanced Database Programming, including SQL and relational database design."
+  },
+  {
+    "institution": "Tshwane University of Technology",
+    "degree": "Advanced Diploma in Computer Science",
+    "startDate": "2025",
+    "endDate": "Present",
+    "description": "Currently in final year, focusing on Advanced Software Engineering concepts, Advanced Data structures, Data Science, Service oriented computing and Integrated Software project implementation. Strengthening skills in AI/ML, Software visualisation, backend development, APIs, and scalable application design."
+  }
+
+]

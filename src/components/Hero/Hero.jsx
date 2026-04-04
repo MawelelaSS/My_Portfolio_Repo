@@ -26,7 +26,7 @@ const Hero = () => {
 
       <img
         className={styles.heroImg}
-        src={getImageUrl("heroImage.png")}
+        src={getImageUrl("heroGrad.png")}
         alt="Hero"
       />
 
